@@ -1,3 +1,6 @@
-# homepage
+---
+layout: layout.njk
+title: homepage
+---
 
-dit is de ***eerste*** pagina
+dit is de **eerste** pagina
